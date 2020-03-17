@@ -1,0 +1,10 @@
+{
+  "../component/test-component/dymain": [
+    {
+      "id": "d1hE",
+      "name": "./component/test-component/dymain.js",
+      "file": "static/chunks/18.2f9513f17a8c48be6e2b.js",
+      "publicPath": "static/chunks/18.2f9513f17a8c48be6e2b.js"
+    }
+  ]
+}

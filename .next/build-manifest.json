@@ -1,78 +1,76 @@
 {
   "devFiles": [],
   "lowPriorityFiles": [
-    "static/z2uvgPxdWSM_weukGbrno/_buildManifest.js",
-    "static/z2uvgPxdWSM_weukGbrno/_ssgManifest.js"
+    "static/Fsd4btuFTKHctihhBJOiN/_buildManifest.js",
+    "static/Fsd4btuFTKHctihhBJOiN/_ssgManifest.js"
   ],
   "pages": {
     "/": [
       "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
       "static/chunks/framework.6a5871f0f0075456fb54.js",
-      "static/chunks/67bf7f3c802c0ee463618947de07f15da2baa8d6.c67e2eed8a91b935cfaa.js",
-      "static/chunks/8323b8520042bdff25c7819bc066c06bd02786f5.6c44f0048d1351987336.js",
-      "static/runtime/main-03dc0df36d0957975b0a.js"
+      "static/chunks/9ccfdb8b32bfe8764053251164e706323cad209b.c67e2eed8a91b935cfaa.js",
+      "static/chunks/dff656084d6f9c23cfde2eeebd91d6b200128790.6c44f0048d1351987336.js",
+      "static/runtime/main-5cf469236d7fe41f7dd3.js"
     ],
     "/404": [
       "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
       "static/chunks/framework.6a5871f0f0075456fb54.js",
-      "static/runtime/main-03dc0df36d0957975b0a.js"
+      "static/runtime/main-5cf469236d7fe41f7dd3.js"
     ],
     "/_app": [
       "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
       "static/chunks/framework.6a5871f0f0075456fb54.js",
-      "static/chunks/67bf7f3c802c0ee463618947de07f15da2baa8d6.c67e2eed8a91b935cfaa.js",
-      "static/runtime/main-03dc0df36d0957975b0a.js"
+      "static/chunks/9ccfdb8b32bfe8764053251164e706323cad209b.c67e2eed8a91b935cfaa.js",
+      "static/runtime/main-5cf469236d7fe41f7dd3.js"
     ],
     "/_error": [
       "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
       "static/chunks/framework.6a5871f0f0075456fb54.js",
-      "static/runtime/main-03dc0df36d0957975b0a.js"
+      "static/runtime/main-5cf469236d7fe41f7dd3.js"
     ],
     "/_polyfills": [
-      "static/runtime/polyfills-c8375bd94e53fd10a8dd.js"
+      "static/runtime/polyfills-a75405685c902303ae48.js"
     ],
     "/edit": [
       "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
       "static/chunks/framework.6a5871f0f0075456fb54.js",
-      "static/chunks/67bf7f3c802c0ee463618947de07f15da2baa8d6.c67e2eed8a91b935cfaa.js",
-      "static/chunks/8323b8520042bdff25c7819bc066c06bd02786f5.6c44f0048d1351987336.js",
-      "static/runtime/main-03dc0df36d0957975b0a.js"
+      "static/chunks/9ccfdb8b32bfe8764053251164e706323cad209b.c67e2eed8a91b935cfaa.js",
+      "static/chunks/dff656084d6f9c23cfde2eeebd91d6b200128790.6c44f0048d1351987336.js",
+      "static/runtime/main-5cf469236d7fe41f7dd3.js"
     ],
     "/home": [
       "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
       "static/chunks/framework.6a5871f0f0075456fb54.js",
-      "static/chunks/67bf7f3c802c0ee463618947de07f15da2baa8d6.c67e2eed8a91b935cfaa.js",
-      "static/chunks/8323b8520042bdff25c7819bc066c06bd02786f5.6c44f0048d1351987336.js",
-      "static/chunks/2c2e4b4b4a545bd5b1d1d9af3858efe867925181.3c0e2191b2f0c97e3f2c.js",
-      "static/runtime/main-03dc0df36d0957975b0a.js"
+      "static/chunks/9ccfdb8b32bfe8764053251164e706323cad209b.c67e2eed8a91b935cfaa.js",
+      "static/chunks/dff656084d6f9c23cfde2eeebd91d6b200128790.6c44f0048d1351987336.js",
+      "static/runtime/main-5cf469236d7fe41f7dd3.js"
     ],
     "/index": [
       "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
       "static/chunks/framework.6a5871f0f0075456fb54.js",
-      "static/chunks/67bf7f3c802c0ee463618947de07f15da2baa8d6.c67e2eed8a91b935cfaa.js",
-      "static/chunks/8323b8520042bdff25c7819bc066c06bd02786f5.6c44f0048d1351987336.js",
-      "static/runtime/main-03dc0df36d0957975b0a.js"
+      "static/chunks/9ccfdb8b32bfe8764053251164e706323cad209b.c67e2eed8a91b935cfaa.js",
+      "static/chunks/dff656084d6f9c23cfde2eeebd91d6b200128790.6c44f0048d1351987336.js",
+      "static/runtime/main-5cf469236d7fe41f7dd3.js"
+    ],
+    "/person": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/framework.6a5871f0f0075456fb54.js",
+      "static/chunks/9ccfdb8b32bfe8764053251164e706323cad209b.c67e2eed8a91b935cfaa.js",
+      "static/chunks/dff656084d6f9c23cfde2eeebd91d6b200128790.6c44f0048d1351987336.js",
+      "static/runtime/main-5cf469236d7fe41f7dd3.js"
     ],
     "/post": [
       "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
       "static/chunks/framework.6a5871f0f0075456fb54.js",
-      "static/chunks/8323b8520042bdff25c7819bc066c06bd02786f5.6c44f0048d1351987336.js",
-      "static/runtime/main-03dc0df36d0957975b0a.js"
+      "static/chunks/dff656084d6f9c23cfde2eeebd91d6b200128790.6c44f0048d1351987336.js",
+      "static/runtime/main-5cf469236d7fe41f7dd3.js"
     ],
     "/sendPost": [
       "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
       "static/chunks/framework.6a5871f0f0075456fb54.js",
-      "static/chunks/67bf7f3c802c0ee463618947de07f15da2baa8d6.c67e2eed8a91b935cfaa.js",
-      "static/chunks/8323b8520042bdff25c7819bc066c06bd02786f5.6c44f0048d1351987336.js",
-      "static/runtime/main-03dc0df36d0957975b0a.js"
-    ],
-    "/user": [
-      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
-      "static/chunks/framework.6a5871f0f0075456fb54.js",
-      "static/chunks/67bf7f3c802c0ee463618947de07f15da2baa8d6.c67e2eed8a91b935cfaa.js",
-      "static/chunks/8323b8520042bdff25c7819bc066c06bd02786f5.6c44f0048d1351987336.js",
-      "static/chunks/2c2e4b4b4a545bd5b1d1d9af3858efe867925181.3c0e2191b2f0c97e3f2c.js",
-      "static/runtime/main-03dc0df36d0957975b0a.js"
+      "static/chunks/9ccfdb8b32bfe8764053251164e706323cad209b.c67e2eed8a91b935cfaa.js",
+      "static/chunks/dff656084d6f9c23cfde2eeebd91d6b200128790.6c44f0048d1351987336.js",
+      "static/runtime/main-5cf469236d7fe41f7dd3.js"
     ]
   }
 }

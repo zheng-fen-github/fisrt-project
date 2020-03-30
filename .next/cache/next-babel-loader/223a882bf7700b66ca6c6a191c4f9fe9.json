@@ -1,0 +1,1 @@
+{"ast":null,"code":"// const URL = 'http://localhost:3001/'\nvar URL = 'http://49.234.96.80:3001/';\nexport default URL;","map":null,"metadata":{},"sourceType":"module"}
